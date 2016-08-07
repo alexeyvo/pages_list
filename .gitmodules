@@ -1,0 +1,6 @@
+[submodule "__submodules/boost"]
+	path = __submodules/boost
+	url = git@github.com:boostorg/boost.git
+[submodule "__submodules/btree"]
+	path = __submodules/btree
+	url = git@github.com:alexeyvo/btree.git
